@@ -3,6 +3,19 @@ project(Algorithm_and_Data_Structures)
 
 set(CMAKE_CXX_STANDARD 20)
 
-# Include each week/lab folder here
+# Weekly Lab Targets
 add_subdirectory(lab-01)
 add_subdirectory(lab-02)
+add_subdirectory(lab-03)
+add_subdirectory(lab-04)
+add_subdirectory(lab-05)
+add_subdirectory(lab-06)
+add_subdirectory(lab-07)
+add_subdirectory(lab-08)
+add_subdirectory(lab-09)
+add_subdirectory(lab-10)
+add_subdirectory(lab-11)
+add_subdirectory(lab-12)
+add_subdirectory(lab-13)
+add_subdirectory(lab-14)
+add_subdirectory(lab-15)
