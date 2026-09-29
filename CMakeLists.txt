@@ -5,3 +5,4 @@ set(CMAKE_CXX_STANDARD 20)
 
 # Include each week/lab folder here
 add_subdirectory(lab-01)
+add_subdirectory(lab-02)
