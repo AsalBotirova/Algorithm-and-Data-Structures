@@ -1,0 +1,12 @@
+# CLion / JetBrains system files
+.idea/
+cmake-build-debug/
+cmake-build-release/
+cmake-build-*/
+
+# Compiled Executables & Objects
+*.o
+*.obj
+*.exe
+*.out
+*.dSYM/
